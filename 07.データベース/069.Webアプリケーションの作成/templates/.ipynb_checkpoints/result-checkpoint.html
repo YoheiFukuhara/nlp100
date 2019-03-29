@@ -1,0 +1,43 @@
+    {% extends "layout.html" %}
+    {% block content %}
+    <h3>結果一覧</h3>
+    <p>
+    <a href="/">戻る</a>
+    </p>
+    <div class="table-responsive">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>名前</th>
+                    <th>地域</th>
+                    <th>性別</th>
+                    <th>タグ</th>
+                    <th>別名</th>
+                    <th>タイプ</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for artist in artists %}
+                <tr>
+                    <td>{{ artist.name }}</td>
+                    <td>{{ artist.area }}</td>
+                    <td>{{ artist.gender }}</td>
+                    <td>
+                        {% for tag in artist['tags'] %}
+                            {{ tag.value }}<br>
+                        {% endfor %}
+                    </td>
+                    <td>
+                        {% for alias in artist['aliases'] %}
+                            {{ alias.name }}<br>
+                        {% endfor %}
+                    </td>
+                    <td>{{ artist.type }}</td>
+                    </tr>
+                {% else %}
+                    <td>書籍が登録されていません</td>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    {% endblock %}

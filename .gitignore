@@ -1,0 +1,9 @@
+# 特定拡張子の除外(*は任意の文字のワイルドカード)
+# .python cacheファイルの除外
+*.pyc
+
+# フォルダ除外
+.ipynb_checkpoints
+
+# 特定ファイル名の除外
+artist.json
