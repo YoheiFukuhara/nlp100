@@ -13,7 +13,6 @@ equal	15
 amount	33
 naiveté	2
 passion	50
-beneath	16
 cloud	3
 establish	13
 sen	2
@@ -22,7 +21,6 @@ considerable	23
 potential	27
 offer	120
 much	388
-besides	6
 glib	8
 soullessness	2
 raunchy	8
@@ -32,7 +30,7 @@ brutal	13
 set	96
 piece	108
 raise	20
-bar	8
+bar	9
 stylize	11
 screen	146
 violence	38
@@ -52,7 +50,6 @@ nail	10
 bite	21
 suspense	48
 credible	10
-without	167
 rely	21
 technology	12
 moment	147
@@ -63,7 +60,7 @@ every	179
 note	16
 ring	27
 false	12
-car	23
+car	24
 pileup	3
 clich	72
 love	264
@@ -76,9 +73,7 @@ great	166
 leap	8
 faith	20
 pay	49
-despite	111
 lag	2
-near	22
 finish	25
 line	66
 movie	1583
@@ -100,10 +95,9 @@ pop	37
 nearly	70
 corner	11
 country	25
-make	827
+make	825
 minute	191
 feel	338
-like	762
 hour	119
 companion	4
 napoleon	6
@@ -112,8 +106,7 @@ small	54
 fortune	5
 salary	1
 stunt	27
-might	158
-save	41
+save	42
 director	329
 tom	21
 dey	2
@@ -165,10 +158,9 @@ entry	11
 entertaining	120
 jimmy	2
 routine	30
-could	222
 use	108
 laugh	140
-rare	53
+rare	54
 snake	5
 ooo	1
 yung	1
@@ -206,7 +198,7 @@ lyrical	12
 metaphor	21
 cultural	29
 personal	42
-self	148
+self	133
 discovery	15
 picaresque	1
 view	63
@@ -244,7 +236,7 @@ lack	146
 evidence	8
 answer	20
 clear	36
-easily	42
+easily	43
 end	240
 well	339
 enough	268
@@ -270,7 +262,7 @@ emerge	31
 badly	25
 date	30
 cutesy	6
-pie	8
+pie	9
 mystery	49
 scenario	17
 newfangled	3
@@ -326,7 +318,7 @@ ghandi	1
 bad	248
 boy	68
 franchise	22
-ever	150
+ever	151
 gas	2
 photo	8
 intrigue	66
@@ -335,7 +327,7 @@ delusion	4
 flash	17
 insight	46
 suffice	3
-see	380
+see	379
 imax	21
 form	44
 acquainted	2
@@ -347,14 +339,13 @@ wife	23
 lousy	12
 unbelievably	3
 lead	72
-away	79
+away	67
 perfection	6
 hole	24
 somewhat	31
 predictable	72
 plot	214
 cause	18
-I	111
 jump	11
 chair	3
 animation	42
@@ -366,10 +357,9 @@ heavily	7
 bambi	1
 lion	5
 king	18
-yet	125
 emotional	89
 resonance	15
-either	51
+either	26
 humorless	9
 journey	42
 philosophical	14
@@ -382,17 +372,16 @@ flat	42
 high	99
 crime	60
 generic	26
-would	315
 universal	17
 product	15
 code	8
 instead	71
 title	82
-get	362
+get	318
 settle	17
 divine	12
 secret	25
-ya	24
+ya	14
 sisterhood	9
 suffer	44
 ploddingly	2
@@ -406,8 +395,6 @@ manipulative	17
 needy	2
 margot	1
 front	14
-anyone	90
-60	9
 interested	23
 response	5
 stroke	8
@@ -426,7 +413,7 @@ fetch	4
 premise	65
 convolute	8
 thematic	9
-mumbo	2
+mumbo	3
 jumbo	4
 destiny	4
 redemptive	1
@@ -449,17 +436,15 @@ ridiculousness	4
 event	44
 weird	26
 honestly	11
-know	154
+know	153
 hell	28
 next	54
 tedious	33
 impossible	45
 care	84
-whether	52
 boast	14
 true	80
 difficult	42
-beyond	52
 overall	37
 blandness	5
 american	120
@@ -476,7 +461,7 @@ delivery	15
 payoff	8
 steal	23
 harvard	14
-even	385
+even	386
 immediately	4
 succumb	12
 gravity	6
@@ -485,7 +470,7 @@ earth	15
 change	51
 interest	56
 paranoia	6
-shape	14
+shape	15
 representation	2
 castro	7
 stay	39
@@ -502,13 +487,11 @@ touch	92
 etoile	1
 part	108
 dour	2
-ought	7
 joyful	4
 least	88
 fascinating	79
 subject	104
 picture	164
-whose	70
 promise	52
 rather	119
 precious	15
@@ -520,7 +503,6 @@ subtext	5
 value	35
 recommend	30
 look	308
-something	203
 different	43
 material	97
 slight	25
@@ -530,7 +512,7 @@ preserve	2
 tosca	7
 intoxicating	10
 ardor	1
-camera	49
+camera	50
 captivate	18
 cross-cultural	3
 manners	6
@@ -577,7 +559,6 @@ network	4
 right	111
 wing	4
 extremist	2
-may	245
 tongue	11
 keep	135
 dialog	3
@@ -601,7 +582,7 @@ culture	63
 forcefully	4
 tell	119
 superb	11
-throughout	29
+throughout	10
 weight	16
 water	40
 subconscious	3
@@ -636,7 +617,7 @@ skit	1
 com	5
 fervently	4
 deposit	2
-big	169
+big	172
 byler	6
 savvy	10
 morph	3
@@ -645,7 +626,6 @@ triangle	9
 focus	42
 anguish	7
 develop	22
-one	200
 mull	4
 leave	150
 familiar	67
@@ -677,12 +657,10 @@ popcorn	21
 whenever	9
 onscreen	11
 give	243
-everyone	54
 shout	7
 lot	141
 people	177
 waste	45
-mine	5
 inconsequential	8
 fast	32
 pace	81
@@ -714,7 +692,6 @@ red	23
 dragon	21
 worthy	34
 place	94
-alongside	4
 hannibal	7
 yes	26
 friend	28
@@ -748,7 +725,7 @@ list	18
 idea	118
 inevitable	9
 future	35
-hey	14
+hey	15
 shoot	50
 messenger	2
 highfalutin	1
@@ -759,7 +736,6 @@ shaggy	6
 human	109
 fundamental	7
 missing	6
-someone	31
 carry	33
 spot	19
 burr	4
@@ -793,7 +769,7 @@ claude	6
 chabrol	9
 gently	8
 sway	3
-back	107
+back	105
 forth	7
 cradle	1
 veil	4
@@ -806,7 +782,6 @@ disturbing	23
 disgusting	6
 redeem	11
 whatsoever	3
-nothing	175
 mild	16
 chuckle	14
 surround	18
@@ -825,8 +800,9 @@ george	25
 roy	1
 hill	18
 sting	8
+like	103
 better	173
-around	70
+around	30
 call	68
 professional	13
 intense	17
@@ -920,7 +896,6 @@ various	10
 household	2
 truth	44
 half	90
-a-	10
 dozen	6
 horror	73
 truckzilla	1
@@ -932,10 +907,9 @@ wrong	38
 churlish	1
 begrudge	1
 receive	10
-whatever	21
+whatever	14
 consolation	4
 dragonfly	7
-anything	78
 appal	8
 shamelessly	8
 contrive	38
@@ -957,7 +931,6 @@ figure	35
 wilco	7
 deal	48
 de	63
-dua	1
 torre	1
 style	96
 athlete	8
@@ -973,7 +946,7 @@ preservation	2
 quietly	18
 moving	26
 iranian	14
-solondz	18
+solondz	19
 intent	8
 hammer	4
 message	69
@@ -1014,7 +987,7 @@ imagine	42
 alive	21
 sly	10
 wink	4
-become	134
+become	133
 postmodern	4
 creepy	36
 sardine	1
@@ -1093,14 +1066,12 @@ assemble	8
 bolster	3
 astonishing	11
 voice	28
-except	28
+except	1
 hewitt	5
 racial	8
 storyline	19
 encounter	15
-since	76
 pete	2
-although	61
 purportedly	2
 study	63
 modern	57
@@ -1112,7 +1083,6 @@ fantasy	40
 enervate	3
 deadeningly	2
 draw	45
-n	5
 week	25
 experience	93
 understanding	12
@@ -1122,7 +1092,6 @@ appeal	69
 climactic	6
 beloved	5
 major	30
-shall	2
 nameless	1
 invite	12
 spontaneity	6
@@ -1179,7 +1148,6 @@ talking	5
 justice	17
 win	60
 tone	57
-must	51
 grant	30
 lose	70
 atlantic	3
@@ -1188,7 +1156,7 @@ curious	8
 owner	2
 architectural	2
 oddity	3
-due	14
+due	4
 portentous	1
 appropriately	4
 heavy	54
@@ -1212,7 +1180,8 @@ bold	13
 presentation	8
 kaufman	16
 fail	70
-quite	129
+yet	43
+quite	130
 singer	6
 recent	49
 memory	41
@@ -1220,6 +1189,7 @@ shock	21
 store	12
 unwary	1
 excruciating	5
+one	166
 sit	58
 dentist	2
 drill	1
@@ -1237,7 +1207,6 @@ bennett	2
 naturalistic	7
 speak	32
 volume	6
-anybody	8
 contemplate	2
 drastic	2
 body	26
@@ -1254,7 +1223,6 @@ trap	27
 dampen	3
 lackluster	9
 substandard	3
-though	153
 hunger	1
 cat	13
 tasty	12
@@ -1298,7 +1266,7 @@ bullseye	1
 appetizer	1
 karmen	2
 rhythm	24
-lip	14
+lip	15
 chant	1
 braid	1
 hair	15
@@ -1307,7 +1275,7 @@ jewel	1
 bead	1
 sweat	5
 weightlessness	1
-oscar-	6
+oscar	32
 sound	48
 jame	18
 horner	1
@@ -1370,7 +1338,6 @@ family	130
 porcelain	1
 empire	8
 hard	139
-whereas	3
 competent	11
 hitman	1
 pulp	7
@@ -1381,7 +1348,7 @@ sardonic	6
 verve	9
 caustic	3
 purpose	21
-cletis	8
+cletis	6
 tout	9
 inexpressible	1
 drab	7
@@ -1450,7 +1417,6 @@ wild	36
 hoot	8
 suck	16
 blood	26
-toward	20
 vein	10
 cring	2
 workout	3
@@ -1492,7 +1458,6 @@ search	25
 costume	23
 possible	35
 mechanic	6
-u	12
 nrelentingly	1
 budget	37
 notwithstanding	5
@@ -1542,7 +1507,6 @@ referential	4
 audacious	8
 return	30
 comfortably	3
-among	33
 jean	9
 luc	2
 godard	14
@@ -1594,7 +1558,6 @@ noise	6
 crucial	6
 resemble	19
 meet	21
-unless	16
 happen	59
 annoyingly	2
 involved	21
@@ -1613,6 +1576,7 @@ motown	5
 quirky	53
 slightly	25
 strange	32
+must	4
 fat	20
 greek	15
 wedding	26
@@ -1635,7 +1599,6 @@ debt	3
 previous	25
 throw	37
 train	10
-oscar	26
 caliber	3
 fan	101
 disappoint	14
@@ -1661,7 +1624,7 @@ higher	7
 level	71
 cram	6
 earplug	1
-ear	10
+ear	11
 pillowcase	1
 orange	5
 juice	3
@@ -1776,7 +1739,7 @@ mat	1
 turk	1
 angling	1
 radical	5
-sci	30
+sci	34
 fi	35
 benefit	15
 company	24
@@ -1784,7 +1747,7 @@ track	7
 intention	29
 snoozer	2
 festooning	1
-house	34
+house	35
 fact	54
 english	14
 subtitle	8
@@ -1796,7 +1759,6 @@ appropriate	10
 ell	10
 portray	17
 fastidiousness	1
-per	3
 christian	12
 ellefsen	1
 frailty	12
@@ -1834,7 +1796,7 @@ million	5
 globe	4
 em>ash	1
 wednesday	3
-em	13
+em	10
 edward	3
 mark	45
 writer	89
@@ -1862,8 +1824,7 @@ disquisition	1
 sucking	5
 literally	13
 toilet	7
-everything	71
-need	135
+need	126
 queen	25
 finally	37
 couple	33
@@ -1891,7 +1852,6 @@ heidi	2
 vietnam	5
 city	31
 mai	1
-thi	1
 kim	4
 irwin	10
 showcase	16
@@ -1918,7 +1878,6 @@ tooth	10
 confirmation	1
 description	5
 unelected	1
-along	53
 bush	2
 incurious	1
 uncharismatic	1
@@ -2011,6 +1970,7 @@ path	13
 age	102
 follow	50
 closely	8
+though	25
 warner	4
 bros	4
 giant	19
@@ -2023,14 +1983,13 @@ define	14
 selection	5
 valuable	7
 capsule	1
-so-	1
 re-fry	1
 tomatoe	1
 stubborn	1
 charismatic	10
 successful	23
 episode	32
-eye	89
+eye	90
 recycl	11
 assassin	9
 greatest	19
@@ -2051,7 +2010,6 @@ target	28
 extraordinarily	5
 surf	9
 photography	11
-inside	31
 massive	3
 wave	16
 pleasurable	7
@@ -2062,7 +2020,6 @@ meatier	1
 beginning	6
 tip	1
 range	10
-b+	1
 robust	2
 intensely	6
 nervous	6
@@ -2077,6 +2034,7 @@ ultimate	25
 redneck	3
 claire	1
 terrific	44
+ought	3
 highlight	8
 rhapsodic	1
 page	10
@@ -2129,11 +2087,9 @@ firestorm	1
 fingernail	1
 instinctively	1
 crawl	4
-towards	5
 suffering	7
 eyeball	4
 fairly	34
-b	11
 pinocchio	13
 critic	14
 miramax	4
@@ -2157,7 +2113,7 @@ distinctive	11
 asian	8
 influence	13
 posture	4
-spy	45
+spy	46
 ballistic	11
 eck	8
 sever	8
@@ -2186,13 +2142,13 @@ impetus	1
 central	21
 stifl	3
 morality	14
-dress	11
+dress	12
 peekaboo	1
 clothing	3
 genial	6
 inspire	40
 talk	41
-altman	2
+altman	3
 lesser	8
 slasher	12
 gorefest	2
@@ -2220,7 +2176,6 @@ yellow	4
 jackass	6
 consist	3
 ali	3
-g	4
 pure	30
 magic	30
 zinger	3
@@ -2258,7 +2213,6 @@ transformation	6
 potent	10
 allegorical	1
 chill	31
-20th	7
 century	29
 france	7
 murder	29
@@ -2286,7 +2240,7 @@ police	10
 academy	8
 plummer	3
 resort	8
-camp	18
+camp	19
 nichola	11
 wounded	1
 wounding	1
@@ -2364,7 +2318,7 @@ dramatist	1
 bourne	11
 scale	13
 building	7
-super	17
+super	19
 stealth	1
 agent	7
 vastly	3
@@ -2378,7 +2332,7 @@ resume	3
 guarantee	10
 capable	13
 charming	58
-star	110
+star	113
 induce	16
 spielb	27
 trademark	9
@@ -2411,7 +2365,7 @@ spald	1
 gray	3
 equivalent	19
 gross	25
-moore	20
+moore	21
 charmer	9
 ghostbuster	1
 architecture	3
@@ -2455,7 +2409,7 @@ levy	3
 substitute	10
 primary	5
 handiwork	1
-indie	19
+indie	20
 tatter	5
 conscious	15
 seam	3
@@ -2467,7 +2421,7 @@ day	107
 lewis	7
 roar	2
 leonine	2
-davis	15
+davis	16
 unthinkable	2
 exclamation	2
 rise	31
@@ -2490,7 +2444,6 @@ bizarre	22
 tragic	24
 york	24
 philip	8
-k	7
 dick	3
 grave	7
 stoner	1
@@ -2505,7 +2458,7 @@ mythic	4
 short	68
 planet	12
 behold	8
-open	49
+open	50
 ouzo	1
 whirlwind	1
 non-stop	3
@@ -2514,7 +2467,7 @@ warmth	20
 cringe	2
 jungle	1
 survive	12
-ambition	16
+ambition	17
 sabotage	5
 pomposity	2
 soderbergh	21
@@ -2629,7 +2582,6 @@ arrive	19
 cloak	4
 euphemism	1
 main	16
-behind	34
 scuttle	1
 rental	9
 dismiss	9
@@ -2646,7 +2598,7 @@ several	35
 openly	2
 social	40
 pull	42
-air	34
+air	35
 hal	3
 hartley	8
 vital	9
@@ -2692,11 +2644,9 @@ emotionally	33
 assertive	1
 harry	12
 author	9
-j	12
 rowl	4
 count	21
 commentary	12
-#	7
 ignite	5
 solace	3
 lesson	20
@@ -2739,7 +2689,7 @@ send	19
 regret	7
 ace	2
 ventura	2
-rip	17
+rip	18
 somehow	22
 pollak	1
 former	7
@@ -2787,7 +2737,6 @@ prevent	9
 stepford	1
 mentality	3
 dot	10
-past	52
 taboo	2
 dramatic	51
 unintentionally	10
@@ -2826,7 +2775,7 @@ pc	1
 stability	1
 fairy	13
 conclusion	15
-birot	8
+birot	7
 directorial	18
 co-wrote	3
 christophe	1
@@ -2857,7 +2806,6 @@ extraordinary	18
 originality	22
 variation	9
 modernize	4
-vh1	2
 sell	14
 record	16
 nation	8
@@ -2869,7 +2817,6 @@ complete	25
 blank	9
 apallingly	1
 absurd	11
-thereof	1
 newton	4
 wahlberg	4
 portable	1
@@ -2894,7 +2841,6 @@ hearst	5
 yacht	1
 unwieldy	4
 destination	10
-sc2	1
 autopilot	1
 christmas	14
 master	28
@@ -2981,7 +2927,6 @@ cheesiest	2
 identity	20
 escapism	11
 grownup	3
-mibii	1
 rote	8
 extravagantly	1
 disagree	1
@@ -3001,7 +2946,6 @@ killer	21
 psyche	3
 impressed	4
 tit	2
-for-	5
 tat	2
 retaliatory	1
 plug	2
@@ -3026,15 +2970,13 @@ friendship	27
 filipino	1
 americans	14
 frantic	7
-techno	4
+techno	7
 tux	2
 design	29
 knockoff	2
 cop	17
-q	7
 sam	7
 amoral	1
-versus	11
 prefer	9
 concentration	2
 lover	13
@@ -3043,6 +2985,7 @@ patriarchal	1
 debate	9
 society	18
 nowhere	16
+near	11
 denzel	4
 washington	13
 notch	12
@@ -3133,13 +3076,14 @@ intricate	9
 elegance	4
 lyricism	5
 profound	17
-common	14
+common	15
 singles	7
 ward	2
 celebrity	7
 cameo	6
 automatically	4
-neither	48
+neither	42
+inside	9
 co-opt	1
 pedestrian	8
 candidate	3
@@ -3156,7 +3100,7 @@ diane	6
 lane	17
 adrian	3
 lyne	5
-unfaithful	11
+unfaithful	12
 sleazy	2
 moralize	2
 pretend	11
@@ -3309,7 +3253,6 @@ bash	1
 windtalker	11
 pack	31
 wallop	5
-x	34
 hoary	3
 deprecate	6
 eating	3
@@ -3360,7 +3303,6 @@ juliette	3
 sand	10
 vivacious	1
 powerhouse	1
-19th	4
 childlike	4
 utter	13
 mush	4
@@ -3408,7 +3350,7 @@ pillage	2
 incinerate	1
 frank	14
 capra	4
-enigma	7
+enigma	9
 handsome	11
 unsatisfying	7
 hybrid	12
@@ -3450,7 +3392,7 @@ kidman	7
 wound	7
 clock	5
 tick	7
-hum	3
+hum	5
 zigzag	2
 sufficiently	2
 wry	15
@@ -3465,7 +3407,6 @@ thanks	31
 confident	7
 neverland	3
 straddle	2
--of	3
 mill	12
 market	13
 rollerball	8
@@ -3568,7 +3509,7 @@ extra	5
 flawless	3
 truest	1
 environmental	3
-ahead	12
+ahead	7
 innuendo	4
 fil	1
 improvement	4
@@ -3602,14 +3543,15 @@ hone	3
 mimicry	1
 shell	2
 alone	28
+besides	3
 café	1
 overhearing	1
 bunch	15
+something	1
 natter	1
 desperately	13
 table	8
 generacione	1
-tu	2
 mamá	2
 también	2
 brave	4
@@ -3668,7 +3610,6 @@ mcgrath	7
 nickleby	9
 halfheart	2
 zeal	4
-8th	1
 delve	3
 require	23
 reading	8
@@ -3679,6 +3620,7 @@ cope	4
 mysterious	8
 beguile	7
 parable	12
+past	41
 remote	4
 seacoast	1
 moody	9
@@ -3717,7 +3659,7 @@ disarmingly	2
 strikingly	1
 devious	1
 surreal	15
-bear	36
+bear	37
 enact	2
 inter-specy	1
 changer	1
@@ -3731,7 +3673,7 @@ guidance	1
 invade	1
 abundance	2
 mindset	6
-lovely	29
+lovely	30
 holofcener	4
 uncompromising	10
 curtsy	1
@@ -3782,7 +3724,7 @@ decay	1
 ape	4
 swing	13
 tree	5
-'anyone	1
+anyone	1
 soon	15
 ferrara	5
 detachment	2
@@ -3798,7 +3740,6 @@ obsession	15
 eager	6
 edite	10
 bald	3
-e	16
 wondrous	3
 apex	1
 misunderstood	1
@@ -3816,7 +3757,7 @@ spice	6
 rat	5
 skill	25
 genuinely	20
-rap	13
+rap	14
 gang	21
 constant	10
 reference	12
@@ -3852,12 +3793,11 @@ buck	9
 check	17
 simone	6
 dvd	10
--d	2
 topkapi	1
 basically	10
 static	10
-semi	4
--improvise	1
+semi	5
+improvise	8
 coherent	10
 vaguely	6
 clockstoppers	8
@@ -3889,7 +3829,7 @@ excess	16
 silliness	12
 theatre	13
 achingly	6
-bio-	2
+bio	6
 usual	32
 sneer	2
 bile	2
@@ -3912,7 +3852,6 @@ pow	10
 benchmark	2
 lameness	2
 infantile	5
--dress	1
 unimaginative	9
 comedian	10
 woody	15
@@ -3962,7 +3901,6 @@ achieve	28
 virtuosity	3
 crapulence	1
 lay	11
-i]	1
 laudable	3
 button	8
 comedic	15
@@ -3998,7 +3936,7 @@ sexually	3
 leaden	10
 closing	5
 clumsy	16
-swimfan	7
+swimfan	5
 cookie	2
 cutter	3
 paste	3
@@ -4055,7 +3993,6 @@ brit	8
 album	7
 evolve	6
 learn	23
-21st	6
 weave	8
 disturbingly	4
 psych	1
@@ -4069,7 +4006,6 @@ school	49
 slot	2
 shopping	2
 mall	3
-across	27
 bloodwork	2
 stultifyingly	3
 unrewarding	2
@@ -4144,7 +4080,6 @@ policy	4
 necessary	16
 aim	22
 uplift	14
-'s	8
 consumer	3
 salesmanship	1
 fish	15
@@ -4184,7 +4119,6 @@ fullness	2
 negate	2
 larky	2
 exploration	19
-somebody	10
 blind	8
 proficient	3
 comment	6
@@ -4192,7 +4126,7 @@ yuk	1
 absorb	30
 rude	6
 crude	11
-gut	14
+gut	15
 bust	7
 dig	10
 bond	30
@@ -4206,7 +4140,7 @@ hmmmmm	1
 zzzzzzzzz	1
 initial	6
 ki-deok	1
-adolescent	17
+adolescent	18
 demand	27
 regular	2
 bout	3
@@ -4320,7 +4254,7 @@ stagger	4
 flaccid	5
 madcap	3
 choke	6
-upper	7
+upper	8
 crust	1
 decorum	1
 continual	1
@@ -4339,7 +4273,6 @@ colleague	2
 bam	3
 huge	21
 excel	6
-unlike	20
 ilk	2
 futility	1
 godawful	1
@@ -4437,11 +4370,10 @@ pointlessness	1
 uncut	1
 sergio	1
 leone	1
-upon	27
 jazzy	3
 stare	5
 silence	11
-drug	22
+drug	23
 dedicated	2
 redemption	7
 blanchett	2
@@ -4487,7 +4419,7 @@ huppert	12
 landmark	6
 pompeo	2
 resource	3
-cantet	3
+cantet	2
 foremost	3
 workplace	4
 replete	7
@@ -4583,7 +4515,7 @@ friday	17
 bluster	3
 tune	12
 piano	10
-'stock	1
+stock	18
 silver	8
 bullet	8
 marshall	5
@@ -4681,7 +4613,6 @@ resurrection	4
 merit	13
 prophet	1
 seamless	2
-amongst	1
 scatter	9
 command	6
 solely	3
@@ -4696,7 +4627,7 @@ perverse	8
 scrape	1
 cracker	3
 barrel	10
-round	8
+round	9
 overview	3
 ancient	5
 holistic	1
@@ -4727,7 +4658,7 @@ host	6
 guest	4
 suitcase	1
 smaller	3
-ed'	1
+ed	5
 silber	2
 grab	9
 amaze	2
@@ -4746,14 +4677,13 @@ avant	3
 garde	3
 chamber	6
 realm	4
-opposite	4
+opposite	3
 often-hilarious	1
 belly	9
 minded	16
 worshipful	2
-bio	4
 doc	5
-minus	3
+along	28
 miike	4
 nachtwey	5
 empathize	2
@@ -4797,7 +4727,6 @@ prepare	4
 pervert	1
 soak	6
 riff	5
-sci-	4
 philosophically	1
 logistically	1
 comprehension	3
@@ -4805,7 +4734,6 @@ bullwinkle	2
 strident	1
 inelegant	2
 feardotcom	6
-ver	3
 wiel	1
 critical	10
 jim	8
@@ -4830,7 +4758,6 @@ nerve-raked	1
 staging	1
 hardware	2
 slender	3
-yo	1
 boogaloo	2
 astonishingly	7
 skillful	5
@@ -4844,14 +4771,12 @@ metaphysical	3
 claptrap	3
 urgent	3
 sugarcoate	1
-corcuera	2
 collective	5
 waydowntown	6
 oliver	6
 stone	10
 conspiracy	7
 jfk	2
-star-	3
 studd	1
 neurotic	4
 height	5
@@ -4934,7 +4859,6 @@ purely	7
 lock	6
 ongoing	3
 longest	5
-stock	17
 smoking	3
 cacoyannis	3
 vision	34
@@ -4974,7 +4898,6 @@ caricature	5
 radioactive	1
 codswallop	1
 congratulatory	3
-3d	3
 rah-rah	2
 paradiso	7
 lawrence	15
@@ -5027,7 +4950,6 @@ needless	2
 swordfight	1
 curiosity	11
 fritter	2
-via	5
 unimpressive	2
 admit	13
 runteldat	2
@@ -5056,7 +4978,6 @@ harris	10
 ham	8
 disintegrating	3
 boyd	3
-attal	9
 insecure	5
 fictional	5
 yvan	4
@@ -5077,7 +4998,7 @@ mohawk	1
 sheet	3
 flame	5
 tattoo	4
-kilmer	3
+kilmer	4
 salton	5
 spy-action	1
 chiller	8
@@ -5090,7 +5011,6 @@ hinge	7
 technicality	1
 credulity	2
 origin	4
-'rare	1
 bird	3
 villainous	4
 cup	4
@@ -5139,7 +5059,6 @@ spiced	4
 academic	2
 skullduggery	1
 rug	5
-underneath	3
 plung	1
 funniest	15
 likeable	5
@@ -5195,7 +5114,7 @@ deadpan	9
 labour	3
 rein	1
 clunkiness	1
-outside	12
+outside	3
 miscalculation	3
 dana	5
 ballsy	1
@@ -5335,10 +5254,8 @@ hjelje	1
 pumpkin	10
 russo	3
 infest	1
--v	2
 fascinate	9
 pokemon	14
-4ever	4
 serenity	2
 discipline	2
 elicit	5
@@ -5363,7 +5280,6 @@ truffle	2
 brisk	7
 crummy	3
 re-image	1
-1930	1
 ferzan	1
 dynamic	7
 apartment	2
@@ -5391,7 +5307,7 @@ secular	1
 religion	4
 heartening	2
 caruso	5
-sub-	1
+sub	3
 cuteness	4
 tight	7
 consciousness	13
@@ -5418,7 +5334,7 @@ approximation	1
 contempt	3
 strut	3
 courage	17
-pin	2
+pin	3
 huckster	1
 lapel	1
 doub	1
@@ -5438,7 +5354,6 @@ reversal	3
 sinner	1
 pray	7
 symmetrical	1
--shape	1
 weaken	1
 miscast	3
 fourth	8
@@ -5461,7 +5376,6 @@ winningly	1
 desert	3
 rain	5
 largely	24
-improvise	7
 busy	10
 scenic	4
 splendor	3
@@ -5484,11 +5398,9 @@ nathan	2
 crummle	1
 manager	2
 bruin	1
-thou	2
 cross-country	2
 sporadic	2
 liveliness	1
-ear-	1
 pleasing	12
 gor	2
 strenuous	1
@@ -5522,7 +5434,6 @@ badness	3
 leg	10
 herbivore	1
 useless	5
-70	7
 mechanical	7
 grease	3
 parris	1
@@ -5532,7 +5443,7 @@ door	8
 hanky	1
 panky	1
 juiceless	1
-scherfig	5
+scherfig	4
 exposé	2
 intentionally	4
 sorority	7
@@ -5543,11 +5454,10 @@ defy	8
 rep	1
 showdown	3
 kale	1
-niko'	1
+niko	1
 kill	26
 neighbor	3
 unendurable	3
-l	6
 luncher	1
 informative	5
 normally	4
@@ -5611,7 +5521,6 @@ actorliness	1
 judge	5
 gritty	15
 polanski	14
-z-	1
 skateboarding	1
 punk	4
 brilliantly	12
@@ -5628,7 +5537,6 @@ doo	6
 daphne	1
 fred	3
 velma	1
--house	1
 obscurity	2
 slam	4
 burlesque	1
@@ -5644,7 +5552,7 @@ intellectual	16
 scorpion	4
 ebullient	2
 widow	2
-exotic	7
+exotic	8
 march	6
 mistakenly	1
 pot	4
@@ -5662,7 +5570,7 @@ unified	2
 germany	2
 eastern	3
 jew	5
-ahola	3
+ahola	2
 inadequate	2
 scan	1
 overtly	3
@@ -5738,12 +5646,11 @@ wallpaper	1
 madden	3
 willfully	1
 ghastly	1
-flck	1
 implausible	8
 watstein	2
 manically	1
 vaudeville	3
-shadyac'	1
+shadyac	6
 spookily	1
 abrupt	2
 glucose	1
@@ -5751,7 +5658,6 @@ laughable	8
 ignorant	2
 peploe	3
 airless	3
-pie-	1
 irreverence	1
 tube	2
 fashioned	28
@@ -5777,6 +5683,7 @@ criticism	3
 unflattering	1
 ryan	16
 proclaim	1
+somebody	1
 permit	3
 grossly	2
 contradictory	5
@@ -5798,7 +5705,6 @@ wrench	12
 collide	3
 flamboyant	6
 artfully	7
-12th	1
 nomination	7
 precision	4
 insurance	5
@@ -5813,7 +5719,6 @@ marquee	2
 unschooled	1
 musings	2
 jar	7
-ya-	1
 yas	1
 everywhere	4
 forgive	10
@@ -5871,6 +5776,7 @@ innocence	12
 questionable	4
 inexcusable	1
 atmospherics	2
+corcuera	1
 candid	5
 marquis	6
 sade	15
@@ -5967,7 +5873,7 @@ pro-fat	1
 excessive	3
 flag	5
 potshot	2
-henry	5
+henry	6
 larry	2
 lecture	5
 kin	1
@@ -6001,7 +5907,6 @@ anderson	7
 aesthetic	4
 lick	4
 peek	7
-1970	6
 skateboard	4
 anthropology	1
 tame	3
@@ -6020,7 +5925,6 @@ rainy	2
 disintegration	1
 overblown	7
 howling	2
-the-	7
 awaken	4
 fontaine	5
 inextricably	2
@@ -6068,7 +5972,7 @@ rethink	2
 skirmish	1
 wage	1
 predator	2
-within	20
+attal	7
 buffoonery	1
 tickle	3
 preschooler	1
@@ -6081,7 +5985,6 @@ esque	6
 dullest	4
 pub	1
 verse	1
-coulda	2
 quill	3
 dickensian	3
 decency	5
@@ -6123,7 +6026,6 @@ sketchbook	1
 adroit	2
 shift	9
 wearisome	2
-amid	9
 craftsmanship	4
 wretch	3
 clinically	1
@@ -6175,9 +6077,7 @@ severe	5
 itis	2
 oppressively	3
 gloomy	4
-techno-	3
 clambake	1
-even-	1
 rig	2
 sluggish	6
 rush	14
@@ -6217,7 +6117,6 @@ corporate	4
 lovable	4
 siberian	1
 husky	2
-plus	6
 sheep	1
 parka	1
 plato	1
@@ -6240,7 +6139,7 @@ cancer	2
 potty	1
 hilariously	4
 schizo	1
-hanna-	1
+hanna	1
 barbera	1
 mushy	5
 peas	1
@@ -6274,7 +6173,6 @@ unintentional	11
 inadvertently	3
 geek	5
 historian	1
-70'	1
 slime	1
 upside	2
 unpleasantness	1
@@ -6288,7 +6186,6 @@ ballerina	1
 scoring	2
 forgiveness	3
 lilo	5
-&	14
 stitch	8
 asset	4
 commend	4
@@ -6306,7 +6203,6 @@ guilt	6
 noble	9
 justify	13
 disquietingly	1
-air-	1
 conditioning	4
 migraine	1
 spoon	1
@@ -6322,7 +6218,6 @@ snowball	2
 falcon	1
 whoopee	1
 jargon	2
-upper-	1
 laboriousness	1
 baroque	2
 showy	2
@@ -6396,12 +6291,10 @@ iconography	1
 doze	5
 quit	6
 underly	1
-anew	1
 ray	4
 liotta	4
 patric	2
 underwritten	4
-nobody	7
 prize	3
 slapdash	4
 manga	1
@@ -6581,7 +6474,7 @@ tweak	3
 hail	3
 dilettante	1
 clint	3
-pb&	1
+pb	1
 sandwich	3
 uneventful	3
 abide	1
@@ -6960,7 +6853,6 @@ mystical	2
 tenderness	5
 ostentatious	1
 oodle	3
-1790'	1
 dodge	2
 screenful	1
 gamesmanship	3
@@ -6977,7 +6869,6 @@ oversex	1
 occur	5
 rekindle	3
 muckrake	2
-1960	4
 restage	1
 exuberantly	2
 serenely	1
@@ -7038,7 +6929,6 @@ underworld	1
 taxi	2
 driver	4
 outtake	3
-onto	12
 sudden	6
 shainberg	5
 gaitskill	1
@@ -7068,6 +6958,7 @@ sleepwalk	1
 adventurous	6
 specialty	2
 venue	1
+versus	2
 blueblood	1
 trade	6
 alabama	11
@@ -7099,7 +6990,6 @@ samuel	2
 frankenstein	3
 togetherness	1
 inter	1
-ambition&	1
 explanation	6
 puportedly	1
 convolution	3
@@ -7150,7 +7040,7 @@ thurman	2
 max	6
 poke	6
 expressionistic	1
-nerve	12
+nerve	13
 mission	3
 assayas	4
 gallic	1
@@ -7267,9 +7157,7 @@ sumptuous	5
 stultify	2
 walter	6
 undisputed	6
-1940	3
 compliment	4
-henry'	1
 magi	1
 relocate	1
 scuzzy	1
@@ -7339,13 +7227,13 @@ opening	3
 zest	1
 stodgy	1
 opera-ish	2
+across	12
 teleprompter	1
 fad	5
 ballpoint	1
 noticeably	2
 ghetto	7
 koepp	3
--camp	1
 diversion	13
 confession	6
 wane	4
@@ -7469,7 +7357,6 @@ residence	1
 carve	3
 comfortable	8
 costner	6
-shadyac	5
 perfunctory	3
 chop	6
 laurence	2
@@ -7495,7 +7382,7 @@ paxton	7
 a-list	3
 contentedly	1
 farcical	5
-'tobey	1
+tobey	1
 trail	5
 attractive	8
 contraption	2
@@ -7588,7 +7475,6 @@ castrate	1
 highlander	1
 satisfactory	3
 innate	1
-rip-	1
 hispanic	2
 piquant	4
 guise	3
@@ -7654,9 +7540,7 @@ observer	1
 defensive	2
 alter	4
 copy	11
-can&	1
 val	1
-kilmer&	1
 rumination	4
 commerce	4
 laughably	4
@@ -7685,12 +7569,10 @@ tolerable	3
 fond	1
 co-written	4
 gian	1
-ni	1
 romoli	1
 scuzbag	1
 devotion	4
 anarchic	3
-4w	1
 cleverness	8
 shoestring	1
 unevenly	1
@@ -7777,7 +7659,6 @@ pistol	1
 pyrotechnic	5
 alex	1
 nohe	3
-big-	3
 nc	1
 percolate	3
 michelle	3
@@ -7817,7 +7698,6 @@ palma	10
 scarface	2
 shrewd	6
 abroad	2
-'unfaithful	1
 retreat	3
 sub-formulaic	1
 seasonal	2
@@ -7831,7 +7711,6 @@ harvest	2
 roughage	1
 symbolically	1
 feminine	2
-everybody	5
 hypnotic	7
 fragmentary	2
 dolgin	1
@@ -7857,7 +7736,7 @@ walt	4
 doodle	2
 steamboat	1
 willie	2
-'estupendamente	1
+estupendamente	1
 wash	5
 ringu	4
 bothersome	1
@@ -7901,7 +7780,7 @@ humorously	1
 tendentious	1
 intervention	1
 meld	3
-eh	1
+eh	2
 tumultuous	3
 surroundings	3
 angeles	2
@@ -7915,7 +7794,6 @@ repress	5
 knuckle	1
 skilled	1
 ragbag	2
-o'	3
 fallon	1
 contribute	5
 boil	5
@@ -7926,7 +7804,6 @@ unchanged	1
 dullard	3
 weiss	1
 speck	1
-by-	1
 lumber	2
 wheezy	1
 lanie	1
@@ -8021,7 +7898,7 @@ ernest	2
 hemmingway	1
 accelerate	1
 speed	5
-filme	2
+filme	1
 esteticamente	1
 belo	1
 emocionalmente	1
@@ -8042,10 +7919,10 @@ evade	3
 hidden	2
 washout	1
 trumpet	2
-a-bornin'	1
+a-bornin	1
 ha	3
 circus	4
-'poca	1
+poca	1
 boleto	1
 tamer	1
 advertise	3
@@ -8093,7 +7970,6 @@ evince	1
 hollow	10
 whine	3
 shlockmeister	1
-ed	4
 alarming	1
 cardellini	1
 snack	1
@@ -8128,7 +8004,6 @@ salvage	3
 digitally	2
 summertime	3
 barbarian	1
-thyself	1
 watt	2
 judicious	1
 blithely	2
@@ -8137,7 +8012,6 @@ achronological	2
 incoherence	5
 sub-sophomoric	1
 wherever	2
-espite	1
 jokey	2
 unforgettably	2
 uproariously	1
@@ -8374,7 +8248,6 @@ spinoff	2
 engendering	2
 knucklehead	1
 anthropologically	1
-80	3
 suburbia	1
 overstate	3
 ache	4
@@ -8431,7 +8304,6 @@ unfolding	3
 tentative	1
 mormon	2
 bewildering	2
-25	1
 csoka	1
 unconnected	1
 fault	9
@@ -8520,18 +8392,17 @@ mulan	1
 tarzan	1
 burkinabe	1
 dani	2
-kouyate	3
+kouyate	2
 oral	2
 edgy	6
 watercolor	1
 dumbo	1
-je	1
 gyu	1
 limerick	1
 scrawled	1
 restroom	2
 wazoo	1
-prep-	1
+prep	1
 leatherbound	1
 squabble	1
 ingenuity	2
@@ -8568,7 +8439,6 @@ recharge	1
 recyclable	1
 discreet	2
 mini	1
-car-	1
 waver	1
 cellular	1
 gellar	1
@@ -8605,7 +8475,6 @@ plight	7
 squaddie	1
 heritage	4
 selfish	2
-bar-	1
 scrap	2
 doggedness	1
 transmute	1
@@ -8652,7 +8521,6 @@ purge	1
 speculative	3
 taylor	8
 hitler	4
-1950	3
 rust	1
 belittle	1
 undemanding	2
@@ -8681,7 +8549,7 @@ crank	2
 refine	3
 crystalline	1
 t-shirt	2
-dim	2
+dim	4
 gibberish	2
 janey	1
 obligation	2
@@ -8711,7 +8579,6 @@ unprepare	1
 landbound	1
 ruzowitzky	1
 mothball	1
--y	1
 agreeably	2
 sheerly	2
 battlefield	2
@@ -8757,7 +8624,6 @@ dual	2
 groggy	1
 forge	3
 devotedly	1
-pin-	1
 recreation	1
 gel	6
 narcissistic	1
@@ -8766,7 +8632,6 @@ weirder	1
 california	3
 goods	5
 bandon	1
-ye	2
 dante	3
 rapturous	2
 adopt	4
@@ -8813,7 +8678,6 @@ psychology	9
 procession	4
 sorriest	1
 backdrop	9
-chouraqui	3
 unimaginable	2
 laramie	2
 buyer	2
@@ -8935,7 +8799,7 @@ sensuality	4
 connive	1
 ineffectual	1
 disoriented	1
-alice	4
+alice	5
 wonderland	1
 stalker	3
 condense	3
@@ -8990,7 +8854,6 @@ gelo	1
 diverte	1
 não	1
 convence	1
-É	1
 passatempo	1
 descompromissado	1
 só	1
@@ -9042,7 +8905,6 @@ skillfully	5
 dweller	2
 discern	2
 disturb	4
--adolescent	1
 electra	1
 rebellion	5
 whitaker	2
@@ -9083,7 +8945,7 @@ allur	4
 sensuous	2
 prim	2
 democratic	2
-twohy	4
+twohy	2
 undiminished	1
 se	1
 atreve	1
@@ -9124,7 +8986,7 @@ metaphorically	1
 papa	1
 spanning	3
 sourness	1
-pan	3
+pan	4
 nalin	2
 practitioner	1
 heather	3
@@ -9148,7 +9010,6 @@ stupendous	1
 lavish	5
 ratliff	4
 wisely	3
-minac	1
 individuality	2
 hewn	1
 andie	1
@@ -9271,13 +9132,11 @@ senior	1
 warmly	2
 minimalist	6
 imminently	1
--off	1
 hotdog	2
 perry	5
 extemporaneously	1
 oscar-size	1
 fearless	4
-50s	4
 wyman	1
 june	1
 cleaver	1
@@ -9339,8 +9198,6 @@ julia	4
 laura	2
 regan	1
 variety	8
-p	5
-c	6
 racist	3
 instance	5
 riddle	2
@@ -9376,7 +9233,7 @@ malediction	1
 accompany	7
 artsploitation	1
 ephemeral	1
-'synthetic	1
+synthetic	2
 inventively	1
 fleet	2
 melodramatics	1
@@ -9398,7 +9255,6 @@ python	3
 pg-rate	1
 nonthreatening	2
 tot	1
-till	3
 hairpiece	1
 lai	1
 vaporize	1
@@ -9425,7 +9281,7 @@ perseverance	1
 closure	3
 sonnenfeld	2
 quicksand	1
-'ye	1
+ye	1
 forrest	1
 gump	1
 kitsch	3
@@ -9442,7 +9298,6 @@ echo	1
 allusion	3
 fragment	3
 ho	6
--hum	2
 snowman	2
 flute	1
 meltdown	1
@@ -9465,7 +9320,6 @@ conversion	1
 veneer	4
 nationalism	1
 surest	1
-amidst	3
 swirl	2
 akira	1
 kurosawa	1
@@ -9479,7 +9333,6 @@ responsive	1
 grouchy	1
 ayatollah	1
 mosque	1
-whence	1
 trump	3
 mid-section	1
 unlimited	2
@@ -9529,7 +9382,6 @@ intermezzo	1
 der	1
 groen	1
 belgium	3
-du	1
 sarcasm	1
 prolong	2
 extrusion	1
@@ -9556,10 +9408,9 @@ tad	2
 compassionately	2
 angelina	1
 quibble	2
-beside	2
 mccracken	1
 tyson	1
--bop	1
+bop	1
 nighttime	1
 loquacious	2
 videologue	1
@@ -9599,7 +9450,7 @@ nixon	1
 abysmally	1
 fantastical	2
 sock	1
-carlito'	1
+carlito	1
 afterwards	2
 herring	2
 transfer	1
@@ -9619,8 +9470,6 @@ bestial	1
 bonding	3
 venezuelan	1
 si	1
-por	1
-muy	1
 loco	1
 biographical	2
 adhere	2
@@ -9716,7 +9565,6 @@ novella	2
 gurus	1
 doshas	1
 westerner	3
-mumbo-	1
 sew	1
 cattaneo	3
 runaway	1
@@ -9729,10 +9577,9 @@ coherence	4
 loosey	1
 goosey	1
 mangle	1
-'in	1
 integrate	3
 thoughtfulness	3
-pasta-	1
+pasta	1
 fagioli	1
 intoxicatingly	1
 metaphoric	1
@@ -9858,6 +9705,7 @@ iced	1
 tea	3
 showiness	1
 offset	2
+mine	3
 milieu	5
 annie	1
 weirdo	2
@@ -9913,7 +9761,7 @@ exit	4
 discouraging	1
 artifact	3
 jock	1
-piffle	5
+piffle	4
 prankish	1
 initially	2
 solomonic	1
@@ -9940,8 +9788,7 @@ première	1
 meddle	2
 kibbitze	1
 megaplex	3
-rah-	1
-rah	1
+rah	2
 patriotic	1
 strategic	1
 quasi-shakespearean	1
@@ -10128,6 +9975,7 @@ equlibrium	1
 totalitarian	2
 farenheit	1
 elie	1
+chouraqui	2
 subjugate	1
 smothered	2
 solemnity	2
@@ -10160,7 +10008,6 @@ piscopo	1
 chaykin	1
 headly	1
 priceless	3
-'70	6
 antler	1
 multifacete	1
 reporter	1
@@ -10252,7 +10099,7 @@ buckaroo	1
 banzai	1
 fairlane	1
 pentacostal	1
--opener	1
+opener	1
 coldest	1
 crumb	1
 banquet	1
@@ -10271,7 +10118,6 @@ site	1
 envious	2
 gravitas	1
 placeholder	1
-ergo	1
 unpicked	1
 vine	1
 association	2
@@ -10315,7 +10161,6 @@ upset	3
 cart	1
 senseless	1
 shaky	5
-j'	1
 official	1
 repression	1
 tightly	2
@@ -10384,10 +10229,8 @@ ellie	1
 digg	5
 lathan	4
 baloney	1
--t	2
 bmw	3
 steadily	1
-on-	1
 misdemeanor	2
 cowrote	1
 grotesque	3
@@ -10403,7 +10246,7 @@ spiffy	2
 bluescreen	2
 pop-music	1
 sticky	5
-kahlo	6
+kahlo	7
 cliffsnote	2
 malone	2
 nightmarish	2
@@ -10417,7 +10260,6 @@ wearer	1
 superman	2
 rehearsal	2
 facet	3
-11th	1
 chemical	1
 ararat	4
 seine	1
@@ -10447,7 +10289,7 @@ ou	1
 cleavage	1
 principled	1
 payback	3
-pyro-	1
+pyro	1
 obviousness	3
 bottomless	1
 zoom	1
@@ -10497,11 +10339,8 @@ lumpy	1
 porridge	2
 paw	1
 un	2
-bear-	1
 pug	2
-dridi	2
 el	4
-hjejle	1
 interrupt	2
 bathing	1
 estranho	1
@@ -10527,7 +10366,6 @@ flood	1
 heartland	1
 fuddle	1
 motive	3
-sub	2
 crassly	2
 comedically	1
 hairier	1
@@ -10596,7 +10434,6 @@ permanent	1
 reassignment	1
 walsh	5
 janice	5
-1980'	1
 appease	1
 ugliness	2
 atrocious	2
@@ -10657,7 +10494,6 @@ girlfriend	3
 mistress	1
 conceptually	1
 unknown	3
-v	1
 jingles	1
 pocket	2
 lite	2
@@ -10713,7 +10549,6 @@ shag	1
 kura	2
 densest	1
 distillation	1
-'easily	1
 clown	5
 violently	1
 killing	2
@@ -10774,7 +10609,6 @@ flabby	2
 stacy	1
 monotone	1
 sentimentalize	3
-problema	1
 consegue	1
 entreter	1
 hunnam	1
@@ -10841,7 +10675,7 @@ xerox	2
 niblet	1
 widen	1
 continent	1
--colore	2
+colore	2
 lo	3
 clownish	1
 contemptuous	1
@@ -10903,7 +10737,6 @@ rejection	1
 baby	7
 inducingly	1
 phoney	1
-5th	1
 franc	1
 processor	2
 clamor	1
@@ -10986,7 +10819,6 @@ rip-roaring	1
 finding	2
 mail	2
 utilize	2
-kahlo'	1
 catapult	1
 heedless	1
 impetuousness	1
@@ -11033,7 +10865,6 @@ celibacy	1
 ecologically	1
 unconventionally	1
 doh	1
-'how	1
 voyage	3
 dearly	2
 mcconaughey	3
@@ -11087,7 +10918,7 @@ probation	1
 officer	1
 emaciate	1
 fifty	1
-homo-	1
+homo	1
 eroticism	2
 joylessly	1
 whooshing	1
@@ -11135,7 +10966,6 @@ carnivore	1
 pythonesque	1
 flavor	3
 trove	1
-drug-	1
 pluck	3
 wire	2
 transition	5
@@ -11145,7 +10975,6 @@ ardent	2
 introvert	1
 manhunter	1
 moretti	4
-common-	1
 underachieve	1
 museum	4
 perceptiveness	1
@@ -11169,7 +10998,6 @@ alain	1
 choquart	1
 perpetual	3
 doofus	3
-after-	1
 re-do	1
 nolan	4
 helm	3
@@ -11229,7 +11057,6 @@ impotent	1
 danese	1
 amor	1
 waif	1
-lip-	1
 inspection	1
 dilithium	1
 crystals	1
@@ -11247,7 +11074,6 @@ gobble	1
 dolby	1
 stereo	1
 outshine	4
-'like	1
 puppy	2
 untold	1
 bui	1
@@ -11255,19 +11081,20 @@ tireless	1
 booking	1
 enrapturing	1
 inscrutable	1
-camera-	1
 crawly	2
 wretchedly	1
 jazze	1
 druggy	2
 fluke	2
+since	3
 exuberant	3
 sitcomishly	1
+ver	2
 weil	1
 otto	1
 sally	2
 oppressive	4
-dicaprio'	1
+dicaprio	1
 trance	1
 continuity	4
 earthy	1
@@ -11344,10 +11171,8 @@ greenfinger	1
 freely	2
 mingle	1
 technological	2
-super-	2
 outrunning	1
 fireball	2
-'open	1
 sodden	2
 insulting	5
 likes	2
@@ -11390,6 +11215,7 @@ lise	1
 sunnier	1
 dictum	1
 strongman	1
+beyond	2
 teddy	1
 picnic	2
 archibald	1
@@ -11401,13 +11227,11 @@ blarney	1
 patchwork	2
 begley	1
 kangaroo	1
-near-	1
 blasphemous	2
 pristine	4
 acceptable	7
 mcdonald	1
 activism	1
-'60	3
 implode	2
 drung	1
 unsatisfactorily	1
@@ -11493,7 +11317,6 @@ shapely	1
 sandbox	1
 gracious	1
 meager	1
-oe	1
 evangelical	2
 crowdpleaser	1
 henna	1
@@ -11528,7 +11351,6 @@ blubber	1
 transferral	1
 frighten	3
 shiver	3
-nerve-	1
 rattling	3
 ski	1
 scarify	2
@@ -11562,7 +11384,6 @@ raising	3
 idealistic	3
 latent	1
 preposterously	1
-circa	2
 streamline	2
 fiji	1
 diver	1
@@ -11600,7 +11421,7 @@ uhhh	1
 gravitational	1
 irrational	2
 filter	1
-tuba-	1
+tuba	1
 whacking	1
 rubber	1
 goldberg	1
@@ -11716,7 +11537,6 @@ l'avventura	1
 repulsion	1
 chunk	1
 keener	1
-beause	1
 cuddly	2
 non-threatening	1
 ostensibly	1
@@ -11792,7 +11612,6 @@ unrelated	1
 lingerie	1
 dancer	1
 midwest	1
-sa	1
 tay	1
 kitschy	2
 complicity	2
@@ -11842,20 +11661,18 @@ coriat	1
 coinage	1
 disgracefully	1
 circuit	7
--ish	1
+ish	1
 werner	2
 chiaroscuro	1
 retooling	2
-intacto'	1
+intacto	2
 seductively	1
-'a	2
 big-heart	1
 shear	1
 baaaaaaaaad	1
 rave	1
 mania	1
 machination	2
-65th	1
 mixer	1
 defunct	1
 cleopatra	1
@@ -11885,7 +11702,6 @@ devilishly	1
 mcgowan	1
 niel	1
 mueller	1
-'enigma	2
 plano	1
 revelacione	1
 conceptual	3
@@ -11915,10 +11731,9 @@ prominently	1
 rugrat	2
 underlay	1
 gaiety	1
-1920'	2
 nigh	1
 multitude	1
-yahoo-	1
+yahoo	1
 ing	1
 slowness	1
 perkiness	1
@@ -11997,7 +11812,7 @@ resoundingly	1
 renegade	1
 marina	2
 pinhead	1
-7th	1
+tu	1
 georgia	1
 slickness	2
 gigantic	1
@@ -12007,7 +11822,6 @@ diverge	1
 eroticize	1
 lament	1
 clung	1
-'if	1
 copious	1
 villainess	1
 frisk	1
@@ -12035,7 +11849,6 @@ patriot	1
 unspeakably	1
 ream	1
 flatly	2
-dim-	2
 diciness	1
 colonics	1
 outré	1
@@ -12052,7 +11865,6 @@ han	1
 solo	2
 slope	1
 dishonesty	2
-&-	1
 luxury	1
 uncouth	1
 agreeable	1
@@ -12061,7 +11873,6 @@ andersson	2
 spookiness	3
 ho-hum	1
 exemplify	1
-'lovely	1
 companionship	1
 raft	1
 recital	1
@@ -12073,7 +11884,6 @@ cleave	1
 shakespearean	2
 amp	2
 thrash	1
-rap-	1
 haywire	1
 tori	1
 amo	1
@@ -12091,7 +11901,6 @@ slickly	1
 smirk	3
 misadventure	1
 astoundingly	1
-`hey	1
 breeziness	1
 twirl	1
 troupe	1
@@ -12152,7 +11961,6 @@ pur	1
 mélange	1
 wankery	1
 graffiti	1
-'moore	1
 progressive	1
 provocateur	1
 liberalism	1
@@ -12161,8 +11969,6 @@ normative	1
 acrid	1
 starry	1
 plex	1
-'30	1
-40s	1
 punishable	1
 halfwit	1
 dramaturgy	1
@@ -12198,7 +12004,6 @@ infiltrate	1
 globalize	1
 photographic	1
 fishy	2
-1980	1
 dismay	1
 fanatic	1
 poky	1
@@ -12206,6 +12011,7 @@ north	2
 everyman	2
 developer	1
 tourism	1
+behind	2
 mire	2
 wireless	1
 samurai	1
@@ -12234,7 +12040,6 @@ uninitiated	3
 unsavory	2
 schoolboy	1
 abhorrent	2
-15th	1
 sloppiness	1
 blessedly	1
 curse-free	1
@@ -12251,6 +12056,7 @@ printing	1
 alientation	1
 danang	3
 largest	1
+would	1
 identification	1
 strategically	1
 guru	1
@@ -12295,11 +12101,9 @@ knife	1
 diction	1
 swanson	1
 buffoon	1
-2's	1
 mattel	1
 lobbyist	1
 tinsel	1
-10th	1
 undisciplined	1
 divertingly	1
 headbangingly	1
@@ -12370,9 +12174,7 @@ utmost	1
 implicit	3
 economy	1
 craftsmen	1
-'eh	1
 mini-mod	1
-'me	1
 kirsten	1
 dunst	1
 diplomacy	1
@@ -12429,7 +12231,6 @@ haplessness	1
 tic	2
 re-create	1
 verne	1
-h	2
 communion	1
 credulous	1
 unassuming	5
@@ -12483,7 +12284,6 @@ accorsi	1
 wedgie	1
 hereby	1
 andré	1
-outta	1
 twentieth	1
 lard	1
 weighted	1
@@ -12524,7 +12324,6 @@ gator	1
 bashing	1
 hobby	1
 queasy	3
-solondz'	1
 bemuse	1
 pasach'ke	1
 burstein	3
@@ -12612,7 +12411,6 @@ rigorously	1
 titan	1
 overcook	1
 hysteria	2
-spy-	1
 martinez	1
 smoker	1
 thoroughfare	1
@@ -12687,7 +12485,6 @@ desmond	1
 eagle	2
 quartet	1
 lolling	1
-'t	1
 extra-dry	1
 byzantine	2
 bonanza	1
@@ -12820,11 +12617,10 @@ portent	2
 fry	1
 splatter	2
 evacuation	1
--quite	1
 recoiling	1
 shiny	2
 tsukamoto	1
-'aunque	1
+aunque	1
 recurre	1
 fallas	1
 guión	1
@@ -12860,7 +12656,6 @@ pandemonium	1
 reverent	2
 governance	1
 hierarchy	1
-título	1
 engaña	1
 estate	1
 shading	1
@@ -13022,7 +12817,6 @@ inauspicious	1
 mope	2
 meanderings	1
 whimper	3
-altman-	1
 culmination	1
 indisputably	1
 hobnail	1
@@ -13041,7 +12835,6 @@ lisping	1
 reptilian	1
 bask	1
 bombshell	1
-semi-	1
 discerning	1
 stuffiest	1
 a-half	1
@@ -13065,7 +12858,6 @@ coher	1
 conclusive	1
 hashiguchi	3
 bustling	1
-atop	2
 shrivel	1
 bing	1
 bra	1
@@ -13093,7 +12885,6 @@ ile	1
 peddle	1
 a-happy	1
 jakob	1
-mid-'90	1
 retribution	1
 joker	1
 kidnapping	1
@@ -13121,6 +12912,7 @@ raphael	1
 prewarned	1
 quasi-documentary	1
 karim	1
+dridi	1
 infirmity	1
 gruel	1
 luscious	2
@@ -13165,7 +12957,7 @@ justine	2
 tinge	1
 aprovechar	1
 bibbidy	1
-bobbidi-	1
+bobbidi	1
 housekeeping	1
 moviehouse	1
 puddle	1
@@ -13207,7 +12999,6 @@ goofiness	2
 beresford	1
 catholics	1
 catechism	1
-n'	2
 imaginary	1
 joie	1
 vivre	2
@@ -13232,7 +13023,6 @@ squad	2
 surrealist	1
 retrospective	1
 royal	1
-13th	1
 errant	1
 uncharismatically	1
 résumé	1
@@ -13266,7 +13056,6 @@ competitive	1
 djs	1
 cannon	2
 cream	1
-croze	1
 sorcery	1
 statesmen	1
 condundrum	1
@@ -13282,7 +13071,6 @@ trombone	1
 honk	1
 supple	1
 indomitability	1
-'alice	1
 dreamscape	1
 genevieve	1
 leplouff	1
@@ -13333,7 +13121,6 @@ softener	1
 postapocalyptic	1
 disadvantage	1
 ihop	1
-51st	1
 zellweger	1
 pouty	1
 poof	1
@@ -13446,7 +13233,6 @@ kegger	1
 pitcher	1
 thrall	1
 stoically	1
--save	1
 disappear	3
 canter	1
 entitle	1
@@ -13540,7 +13326,6 @@ coal	3
 colorfully	1
 friedman	1
 muffle	1
-o2	1
 deportment	1
 aimlessness	2
 mulholland	1
@@ -13583,7 +13368,6 @@ interfaith	1
 packed	1
 münch	1
 overindulgence	1
-round-	1
 contradict	2
 nowadays	1
 capricious	1
@@ -13600,7 +13384,6 @@ posey	1
 pretense	1
 waltze	1
 downs	3
-pan-	1
 annex	1
 lung	1
 excites	1
@@ -13630,9 +13413,7 @@ irk	1
 treacle	1
 mate	2
 rever	1
-felinni	1
 freakshow	1
-'all	1
 billing	1
 uncool	1
 gadzook	1
@@ -13679,7 +13460,6 @@ gushy	1
 wanker	1
 prognosis	1
 malice	1
-exotic-	1
 increment	1
 bedknob	1
 broomstick	1
@@ -13735,7 +13515,6 @@ birmingham	1
 amiss	1
 dehumanizing	1
 methodology	1
-indie-	1
 unity	1
 shapable	1
 scrapbook	2
@@ -13751,7 +13530,6 @@ superficiality	3
 espresso	1
 amc	1
 sacred	1
-gut-	1
 buster	1
 pooper	1
 scooper	1
@@ -13809,7 +13587,6 @@ clunk	1
 overtime	1
 richest	1
 adventue	1
-sl2	1
 priggish	1
 lethargically	2
 renewal	1
@@ -13855,7 +13632,6 @@ finder	1
 ringside	1
 ethnography	1
 deceit	1
-'cq	1
 salvation	1
 kathleen	1
 soliah	1
@@ -13875,7 +13651,6 @@ borchardt	1
 cove	1
 timeout	1
 sydow	1
-intacto	1
 investigator	1
 presson	1
 balk	1
@@ -13897,7 +13672,6 @@ gown	1
 screwy	1
 no-brainer	1
 sportsmanship	1
-ever-	1
 roisterous	1
 lecter	1
 jeunet	1
@@ -13963,7 +13737,6 @@ unhidden	1
 mirth	1
 varsity	1
 hackles	1
-over-	1
 undergraduate	1
 wizard	1
 artner	1
@@ -13987,7 +13760,7 @@ activate	1
 girlish	1
 duct	1
 exclusively	1
-breillat'	1
+breillat	1
 lika	1
 baio	1
 phonce	1
@@ -14007,6 +13780,7 @@ espouse	1
 decoder	1
 retro-refit	1
 b&w	1
+circa	1
 overtake	1
 dooper	1
 adorability	1
@@ -14067,6 +13841,7 @@ humiliate	1
 am-radio	1
 tierney	1
 expulsion	1
+underneath	1
 atheistic	1
 battista	1
 directress	1
@@ -14082,7 +13857,6 @@ oscar-winner	1
 anti-establishment	1
 slc	1
 mitch	1
-davis'	1
 herek	1
 bottle	1
 dosage	1
@@ -14113,7 +13887,6 @@ jacobi	1
 dullingly	1
 noon	1
 expressiveness	1
-m0	1
 classicism	1
 exasperate	1
 decipherable	1
@@ -14167,7 +13940,6 @@ tel	1
 aviv	1
 respected	1
 dishonorable	1
-synthetic	1
 madame	1
 formalism	1
 calamity	1
@@ -14182,7 +13954,6 @@ sogginess	1
 gaï	1
 conspiratorial	1
 unlaughable	1
-'this	1
 judith	1
 zaza	1
 hysterics	1
@@ -14201,7 +13972,6 @@ shrug	1
 chatty	2
 sieve	1
 desirable	1
-1998'	1
 longtime	2
 drawback	1
 misdirect	1
@@ -14284,6 +14054,7 @@ blackout	1
 haphazardness	1
 recognition	1
 preconceive	1
+beneath	1
 frightfest	1
 stupidest	1
 overeager	1
@@ -14293,7 +14064,6 @@ saying	1
 kidd	1
 elect	1
 impose	1
-eye-	1
 erode	1
 exhilaratingly	1
 carlin	1
@@ -14381,7 +14151,7 @@ emulate	1
 unessential	1
 wolfish	1
 chancellor	1
-piesiewicz'	1
+piesiewicz	1
 kieslow	1
 ki	1
 veronique	1
