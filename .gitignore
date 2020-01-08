@@ -2,6 +2,8 @@
 # .python cacheファイルの除外
 *.pyc
 *.txt
+*.zip
+*.npz
 
 # フォルダ除外
 .ipynb_checkpoints
