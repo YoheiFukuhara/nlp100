@@ -4,6 +4,7 @@
 *.txt
 *.zip
 *.npz
+*.npy
 
 # フォルダ除外
 .ipynb_checkpoints
