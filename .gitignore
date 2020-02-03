@@ -5,6 +5,7 @@
 *.zip
 *.npz
 *.npy
+*.json
 
 # フォルダ除外
 .ipynb_checkpoints
