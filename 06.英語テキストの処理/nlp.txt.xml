@@ -43850,16 +43850,16 @@
         <mention representative="true">
           <sentence>21</sentence>
           <start>24</start>
-          <end>46</end>
+          <end>26</end>
           <head>25</head>
-          <text>statistical models , which make soft , probabilistic decisions based on attaching real-valued weights to the features making up the input data</text>
+          <text>statistical models</text>
         </mention>
         <mention>
           <sentence>21</sentence>
           <start>24</start>
-          <end>26</end>
+          <end>46</end>
           <head>25</head>
-          <text>statistical models</text>
+          <text>statistical models , which make soft , probabilistic decisions based on attaching real-valued weights to the features making up the input data</text>
         </mention>
         <mention>
           <sentence>40</sentence>
